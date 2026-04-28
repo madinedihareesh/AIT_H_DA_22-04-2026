@@ -1,0 +1,19 @@
+Rules & reg:
+1.A var should contain only alphanumaric values along with spl char is '_'
+2.A var should never start 'Number'
+3.A can also start with _
+4.A var case sen
+
+difine var in 3 diffrent types:
+single a=10
+a,b,c=10,20,30 Mul
+a=b=c=30 same 
+
+primitive (immutable(unchage))
+int
+float
+str
+boolen
+complex
+
+
